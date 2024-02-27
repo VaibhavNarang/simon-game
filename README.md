@@ -1,0 +1,1 @@
+A Simon game using basics of jQuery & a bit of CSS.
